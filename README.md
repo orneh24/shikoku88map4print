@@ -1,6 +1,11 @@
 # shikoku88map4print
 Collection of various data, scripts and tools used for creating a A0 or A1 sized physical printed map of the Shikoku Henro pilgrimage trail
 
+![Created-By-Human-Not-By-AI-Badge-white](https://github.com/user-attachments/assets/8ea3e542-b183-4c89-a81d-c1b18865a407)
+![Scripted-By-Human-Not-By-AI-Badge-white](https://github.com/user-attachments/assets/c211e872-21da-45ae-9c82-d0a44d3de897)
+![Written-By-Human-Not-By-AI-Badge-white](https://github.com/user-attachments/assets/32f568a1-7134-4a9e-8524-2b152a22c670)
+
+
 ## Background
 In 2024, I spent a total of 9 weeks, travelling (mostly walking) the Shikoku Pilgrimage - or Shikoku 88, as it is often known - https://en.wikipedia.org/wiki/Shikoku_Pilgrimage. The route is 1100km long and roughly follows the coast around the island of Shikoku in Japan.
 In the months before leaving for Shikoku, I wanted to get a large printout of the island/route, just to hang on the wall. As things tend to, it slowly escalated into a larger project, as I kept coming up with extra details I wanted on the map. 
