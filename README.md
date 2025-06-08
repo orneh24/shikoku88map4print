@@ -1,6 +1,10 @@
 # shikoku88map4print
 Collection of various data, scripts and tools used for creating a A0 or A1 sized physical printed map of the Shikoku Henro pilgrimage trail
 
+[<img src="https://i.imgur.com/FbL1gTX.png">](https://notbyai.fyi/)
+[<img src="https://i.imgur.com/uQP26h1.png">](https://notbyai.fyi/)
+[<img src="https://i.imgur.com/1WaBp89.png">](https://notbyai.fyi/)
+
 ## Background
 In 2024, I spent a total of 9 weeks, travelling (mostly walking) the Shikoku Pilgrimage - or Shikoku 88, as it is often known - https://en.wikipedia.org/wiki/Shikoku_Pilgrimage. The route is 1100km long and roughly follows the coast around the island of Shikoku in Japan, visiting 88 Buddhist temples along the way.
 In the months before leaving for Shikoku, I wanted to get a large printout of the island/route to hang on the wall. As things tend to, it slowly escalated into a larger project, as I kept coming up with extra details I wanted on the map. 
@@ -17,8 +21,11 @@ There are -without a doubt- smarter, faster and cleaner ways to achieve this (I 
 - 'JR Shikoku' railway lines and stations along pilgrimage route highlighted
 - Localization set to English, so Kanji characters will only be used if no translation exists
 
+Sample image, downscaled (44 MB) - https://github.com/orneh24/shikoku88map4print/blob/main/demo_shikoku88map4print.png
+
 ## Prerequisite
 Python3 with Pillow library - pip3 install Pillow
+
 Script tested and developed using Python 3.10.12 and Pillow 10.1.0
 
 ## Files contained in this project
