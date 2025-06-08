@@ -6,9 +6,9 @@ Collection of various data, scripts and tools used for creating a A0 or A1 sized
 [<img src="https://i.imgur.com/1WaBp89.png">](https://notbyai.fyi/)
 
 ## Background
-In 2024, I spent a total of 9 weeks, travelling (mostly walking) the Shikoku Pilgrimage - or Shikoku 88, as it is often known - https://en.wikipedia.org/wiki/Shikoku_Pilgrimage. The route is 1100km long and roughly follows the coast around the island of Shikoku in Japan, visiting 88 Buddhist temples along the way.
+In 2024, I spent 9 weeks, travelling (mostly walking) the 1100km Shikoku Pilgrimage trail - or Shikoku 88, as it is often known - https://en.wikipedia.org/wiki/Shikoku_Pilgrimage visiting 88 Buddhist temples along the way.
 In the months before leaving for Shikoku, I wanted to get a large printout of the island/route to hang on the wall. As things tend to, it slowly escalated into a larger project, as I kept coming up with extra details I wanted on the map. 
-The methods used here could be applied to any XYZ Raster tile provider/server (https://wiki.openstreetmap.org/wiki/Raster_tile_providers) - personally I used Maptiler. *BIG* kudos to Maptiler support, who helped me out with a few smaller graphical technical issues - fast, efficient, competent support, from actual humans.
+The methods used here could be applied to any XYZ Raster tile provider/server (https://wiki.openstreetmap.org/wiki/Raster_tile_providers) - personally I used Maptiler. *BIG* kudos to Maptiler support, who helped me out with a few graphical issues and syntax errors - fast, efficient and competent support, from actual humans.
 As a sample/demo, the .py contains code for the official OpenStreetMap site for basemap and waymarkedtrails.org for highlighting route.
 There are -without a doubt- smarter, faster and cleaner ways to achieve this (I am not a coder by day. And a bad one, by night) - the solution I wound up with, just sort of happened. I had zero experience with OpenStreetMap, OSM tiles, .geojson files, the local Japanese railway lines and Python-scripted image manipulation before starting this project.
 
