@@ -2,8 +2,6 @@
 Collection of various data, scripts and tools used for creating a A0 or A1 sized physical printed map of the Shikoku Henro pilgrimage trail
 
 [<img src="https://i.imgur.com/FbL1gTX.png">](https://notbyai.fyi/)
-[<img src="https://i.imgur.com/uQP26h1.png">](https://notbyai.fyi/)
-[<img src="https://i.imgur.com/1WaBp89.png">](https://notbyai.fyi/)
 
 ## Background
 In 2024, I spent 9 weeks, travelling (mostly walking) the 1100km Shikoku Pilgrimage trail - or Shikoku 88, as it is often known - https://en.wikipedia.org/wiki/Shikoku_Pilgrimage visiting 88 Buddhist temples along the way.
